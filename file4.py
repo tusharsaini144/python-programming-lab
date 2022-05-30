@@ -1,3 +1,4 @@
+#Python program to count the number of lines in a file
 F=open("drinks.dat","r")
 
 count=0
